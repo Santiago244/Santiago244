@@ -16,9 +16,6 @@
 - Ask me about whichever of the past topics, I am open to discussions about those as well as to partipate in projects in those fields.
 
 My professional website informs about me in most fields in which I develop my skills, also It will have a personal page that will have articles about the topics I like.
-# 💫 About Me:
-I am currently working as a Customer Service Representative at Teleperformance<br>I am looking to collaborate on JavaScript Full Stack Applications, and python Machine Learning Models Creation.<br>I am looking for help in learning how to build an AI tool.<br>I am currently learning React, and SQL.<br>Ask me about Frontend Development or Backend for small projects with Python<br> 
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/santiaggonzale41/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/cesarsantiago.gonzalezcuellar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-gonzalez-cuellar-a920801ab/) 
