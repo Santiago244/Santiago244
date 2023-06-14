@@ -1,13 +1,15 @@
 ## HI EVERYONE ✋ My full name is Cesar Santiago Gonzalez Cuellar.
-- I am a **Fronted Developer**, Currently focusing on the finalization of **IT Support Specialist** 🖥️ Google's Course from Coursera, and terminating **CS50's Introduction To Computer Science** from one of Harvard's extensions set up on the EDX platform. 
-- I am finishing my last English course that I have been doing since I was 14, now 18. In addition, I look forward to _learning French_.
+- I am a **Fronted Developer**, and **IT Support Specialist** 🖥️ Google's Course from Coursera, and I have finished the **CS50's Introduction To Computer Science** from one of Harvard's extensions set up on the EDX platform. 
+- I am finishing my AI Course from CS50 AI in order to know how AI essentialy work, I already learnt English since I was 14th, and currently working at a Customer Service Representative providing support to a car rental company from US.
 
 #### So the purpose of this GitHub Profile is to update my projects, thus I will acquire a way to show up my Experience with projects as well as what kind of projects I've done.
 
 - The plan is for you, the reader, to understand what I do and what I can do. Although you will see some projects, like _my personal page_ and a _Landing Page_ I cloned from Frontendmentors (Website with Projects To Do).
-- I still have not done the number of projects I want to. So for you to know, one of my short-term goals (5 months or 6) is to compose from 6 to 10 projects per Technology-Stack. It means 10 projects using **HTML, CSS** and In some cases **JavaScript**. 
-- JavaScript will have its (10) projects due to its scope and because it's much larger as well, so those are the goals for this short upcoming period. 
+
+- Several projects were completed throughout my learning process as a fronted developer, even though, to give the amount of value a a Junior Frontend Dev gives, I must have more projects done and knowledge in the backend side.
+- 
 - It's noteworthy that projects with JavaScript will be based on **Full-stack Applications** which for me as a beginner will be so handy and likely are going to make me dive into the topics or frameworks **(React)⚛️** I will use with JavaScript.
+- 
 - The conclusion with all those projects is not only practice, some of them will be based on real needed solutions, so not all of them will be from Common Project's ideas, but also real customers' necessities.
 
 #### So basically now I am HANDS-ON, Although looking for working as a second-level Help Desk, other of my interests are:
