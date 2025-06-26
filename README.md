@@ -1,23 +1,20 @@
 ## HI EVERYONE ✋ My full name is Cesar Santiago Gonzalez Cuellar.
-- I am a **Fronted Developer**, and **IT Support Specialist** 🖥️ Google's Course from Coursera, and I have finished the **CS50's Introduction To Computer Science** from one of Harvard's extensions set up on the EDX platform. 
-- I am finishing my AI Course from CS50 AI in order to know how AI essentialy work, I already learnt English since I was 14th, and currently working at a Customer Service Representative providing support to a car rental company from US.
+- I am a student of Telecommunications Engineering at UNIZA, University of Zilina in Slovakia. I have done an **IT Support Specialist** 🖥️ Google Course from Coursera, and I have finished the **CS50's Introduction To Computer Science** from HarvardX. 
+- I am finishing CS50AI (Artificial Intelligence) and CS50P (Python) to understand how AI, along with Python, essentially works. I have been learning English since I was 14, and I worked as a Customer Service Representative, providing support to several product and service-focused campaigns from the United States.
+  
+- #### The purpose of this GitHub Profile is to showcase my projects, allowing me to demonstrate my experience with various projects on which I've worked.
 
-#### So the purpose of this GitHub Profile is to update my projects, thus I will acquire a way to show up my Experience with projects as well as what kind of projects I've done.
-
-- The plan is for you, the reader, to understand what I do and what I can do. Although you will see some projects, like _my personal page_ and a _Landing Page_ I cloned from Frontendmentors (Website with Projects To Do).
-
-- Several projects were completed throughout my learning process as a fronted developer, even though, to give the amount of value a a Junior Frontend Dev gives, I must have more projects done and knowledge in the backend side.
+- The purpose is to understand my hard skills. You will see some projects, like _my personal page_ and a _Landing Page_, which I cloned from Frontendmentors (Website with Projects To Do).
+ 
+- It's noteworthy that projects with JavaScript will be based on **Full-stack Applications**, which for me as a beginner will be so handy and likely are going to make me dive into the topics or frameworks **(React)⚛️**.
 - 
-- It's noteworthy that projects with JavaScript will be based on **Full-stack Applications** which for me as a beginner will be so handy and likely are going to make me dive into the topics or frameworks **(React)⚛️** I will use with JavaScript.
-- 
-- The conclusion with all those projects is not only practice, some of them will be based on real needed solutions, so not all of them will be from Common Project's ideas, but also real customers' necessities.
 
-#### So basically now I am HANDS-ON, Although looking for working as a second-level Help Desk, other of my interests are:
+#### Now I am HANDS-ON. Other interests of mine are:
 
 - I am looking to collaborate with WEB3(Threejs) and Blockchain ⛓️ Projects, also I am excited about Airspace 🧑‍🚀 Engineering and Physics ⚛ Stuff as well, those are maybe the topics I used to dive into in my free time.
-- Ask me about whichever of the past topics, I am open to discussions about those as well as to partipate in projects in those fields.
+- I am open to discussions about those, as well as to participate in open-source projects in these fields.
 
-My professional website informs about me in most fields in which I develop my skills, also It will have a personal page that will have articles about the topics I like.
+My professional website describes some of my abilities in fields where I develop my skills. Additionally, it will have a personal page that will have articles about the topics I like.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/santiaggonzale41/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/cesarsantiago.gonzalezcuellar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-gonzalez-cuellar-a920801ab/) 
