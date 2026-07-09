@@ -1,18 +1,18 @@
-## HI EVERYONE ✋ My full name is Cesar Santiago Gonzalez Cuellar.
-- I am a student of Telecommunications Engineering at UNIZA, University of Zilina in Slovakia. I have done an **IT Support Specialist** 🖥️ Google Course from Coursera, and I have finished the **CS50's Introduction To Computer Science** from HarvardX. 
-- I am finishing CS50AI (Artificial Intelligence) and CS50P (Python) to understand how AI, along with Python, essentially works. I have been learning English since I was 14, and I worked as a Customer Service Representative, providing support to several product and service-focused campaigns from the United States.
+## HI EVERYONE ✋ My full name is Santiago Gonzalez.
+- I am a student of Telecommunications Engineering at UNIZA, the University of Zilina in Slovakia. I have done an **IT Support Specialist** 🖥️ Google Course from Coursera, and I have finished the **CS50's Introduction to Computer Science** from HarvardX. 
+- I am finishing CS50AI (Artificial Intelligence) and CS50P (Python) to understand how AI, along with Python, essentially works. I have been learning English since I was 14, and I worked as a Customer Service Representative, providing support to several product- and service-focused campaigns from the United States.
   
 - #### The purpose of this GitHub Profile is to showcase my projects, allowing me to demonstrate my experience with various projects on which I've worked.
 
 - The purpose is to understand my hard skills. You will see some projects, like _my personal page_ and a _Landing Page_, which I cloned from Frontendmentors (Website with Projects To Do).
  
-- It's noteworthy that projects with JavaScript will be based on **Full-stack Applications**, which for me as a beginner will be so handy and likely are going to make me dive into the topics or frameworks **(React)⚛️**.
+- It's noteworthy that projects with JavaScript will be based on **Full-stack Applications**, which, for me as a beginner, will be so handy and likely are going to make me dive into the topics or frameworks **(React)⚛️**.
 - 
 
 #### Now I am HANDS-ON. Other interests of mine are:
 
-- I am looking to collaborate with WEB3(Threejs) and Blockchain ⛓️ Projects, also I am excited about Airspace 🧑‍🚀 Engineering and Physics ⚛ Stuff as well, those are maybe the topics I used to dive into in my free time.
-- I am open to discussions about those, as well as to participate in open-source projects in these fields.
+- I am looking to collaborate with WEB3(Three.js) and Blockchain ⛓️ Projects; also, I am excited about Airspace 🧑‍🚀 Engineering and Physics ⚛ Stuff as well, those are maybe the topics I used to dive into in my free time.
+- I am open to discussions about those, as well as to participating in open-source projects in these fields.
 
 My professional website describes some of my abilities in fields where I develop my skills. Additionally, it will have a personal page that will have articles about the topics I like.
 
